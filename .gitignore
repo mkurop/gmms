@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 
 # SpaceVim configs
-.SpaceVim/
+.SpaceVim.d/
 
 # C extensions
 *.so
